@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import math
 
 '''-------------------------------------------------------------------
-4.2.1 Methods to Examine the Scale of a Contiuous Covariate in the Logit
+4.2.1 Methods to Examine the Scale of a Contiuous Covariate in the Logit                                                                                       
 --------------------------------------------------------------------'''
 
 #read the data Scale_Example
